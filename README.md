@@ -1,7 +1,7 @@
 # Software Quality Management – Grab Case Study
 
 ## Project Overview
-This project analyzes Grab Super App using Software Quality Management principles including ISO 25010, CMMI, defect analysis, and risk management.
+This project analyzes Grab App using Software Quality Management principles including ISO 25010, CMMI, defect analysis, and risk management.
 
 ## Quality Policy
 Grab system must ensure high reliability, strong security, optimal performance efficiency, usability, and maintainability to serve millions of users.
